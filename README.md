@@ -37,7 +37,7 @@ The project took approximately two full days. Around 6–8 hours were spent on c
 Local Development Instructions
 Clone the repository:
 
-git clone https://github.com/your-username/ev-dashboard.git
+git clone https://github.com/Sainazardosht/ev-dashboard
 cd ev-dashboard
 Install dependencies:
 npm install
